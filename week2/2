@@ -1,1 +1,29 @@
 #2026144049 김동현 2주차 숙제2
+#Exercise Strings 1
+A = "1"
+A
+# 수행결과 : 1
+B = "2"
+B
+# 수행결과 : 2
+C = A + B
+C
+# 수행결과 : 12
+D = "ABCDEFG"
+print(D[0:3]) 
+# 수행결과 : ABC
+E = 'clocrkr1e1c1t'
+print(E[::2])
+# 수행결과 :correct
+print("\\")
+# 수행결과 : \
+F = "You are wrong"
+F.upper()
+# 수행결과 : YOU ARE WRONG
+G = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb \
+Its fleece was white as snow And everywhere that Mary went Mary went, Mary went \
+Everywhere that Mary went The lamb was sure to go"
+G.find("snow")
+# 수행결과 : 95
+G.replace("Mary", "Bob")
+# 수행결과 : Bob had a little lamb Little lamb, little lamb Bob had a little lamb Its fleece was white as snow And everywhere that Bob went Bob went, Bob went Everywhere that Bob went The lamb was sure to go
