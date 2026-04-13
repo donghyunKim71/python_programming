@@ -7,3 +7,9 @@ type(12.0)  # float
 #Exercise 3 (Types): Types
 type(6/2) #float
 type(6//2) #int
+
+#Exercise 4 (Types): Expression
+160/60 #2.6666666666666665
+160//60 #2
+30 + 2 * 60 #150
+(30 + 2) * 60 #1920
