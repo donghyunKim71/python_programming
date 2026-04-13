@@ -1,1 +1,9 @@
-print("Hello, world!") # Print the traditional hello world
+#Exercise 1 (Types) : Your First Program
+print("Hello, world!") # Hello, world!
+
+#Exercise 2 (Types): Get the object type
+type(12.0)  # float
+
+#Exercise 3 (Types): Types
+type(6/2) #float
+type(6//2) #int
