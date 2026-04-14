@@ -1,4 +1,4 @@
-2026144049 김동현
+#2026144049 김동현 3주차 숙제1(Tuples)
 
 genres_tuple = ("pop", "rock", "soul", "hard rock", "soft rock", \
                 "R&B", "progressive rock", "disco") 
