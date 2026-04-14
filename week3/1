@@ -35,6 +35,6 @@ genres_tuple.index("disco")
 
 Generate a sorted List from the Tuple C_tuple=(-5, 1, -3):
 C_tuple=(-5, 1, -3)
-C_list = sorted(C_tuple)
-C_list
+list = sorted(C_tuple)
+list
 실행결과 : [-5, -3, 1]
