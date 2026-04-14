@@ -1,2 +1,11 @@
 #2026144049 김동현 6주차 숙제2(Classes)
 
+import matplotlib.pyplot as plt 
+%matplotlib inline  
+
+FatYellowRectangle = Rectangle(20, 5, 'yellow')
+FatYellowRectangle.height 
+FatYellowRectangle.width
+FatYellowRectangle.color
+FatYellowRectangle.drawRectangle()
+
