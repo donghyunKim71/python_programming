@@ -1,2 +1,21 @@
-#2026144049 김동현 6주차 숙제1
+#2026144049 김동현 6주차 숙제1(Functions)
 
+Come up with a function that divides the first input by the second input:
+def div(a, b):
+    return(a/b)
+    
+for example: 
+div(5,10)
+실행결과 : 0.5
+
+# Use the con function for the following question
+def con(a, b):
+    return(a + b)
+
+Can the con function we defined before be used to add to integers or strings?
+con(2, 3)
+실행결과 : 5
+
+Can the con function we defined before be used to concentrate a list or tuple?
+con(['a', 1], ['b', 2])
+실행결과 : ['a', 1, 'b', 2]
