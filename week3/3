@@ -1,0 +1,14 @@
+#2026144049 김동현 3주차 숙제3(Disctionaries)
+
+You will need this dictionary for the next two questions:
+soundtrack_dic = {"The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+soundtrack_dic
+실행결과 : {'The Bodyguard': '1992', 'Saturday Night Fever': '1977'}
+
+a) In the dictionary soundtrack_dict what are the keys ?
+soundtrack_dic.keys()
+실행결과 : dict_keys(['The Bodyguard', 'Saturday Night Fever'])
+
+b) In the dictionary soundtrack_dict what are the values ?
+soundtrack_dic.values()
+실행결과 : dict_values(['1992', '1977'])
